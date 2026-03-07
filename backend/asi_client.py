@@ -12,6 +12,8 @@ import os
 import time
 from collections.abc import AsyncGenerator
 from typing import Any
+from dotenv import load_dotenv
+load_dotenv()
 
 import httpx
 from tenacity import (
