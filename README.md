@@ -270,4 +270,4 @@ MIT
 
 ## Built For
 
-[ASI-1 API Hackathon](https://asi1.ai) — February 14 – March 15, 2026
+[ASI-1 API Hackathon](https://api-innovate-2026.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open&_gl=1*dtvwck*_gcl_au*MTg3MDU3MzE5Mi4xNzY5NDQ4MzUy*_ga*MTI2MDk4MTc2OC4xNzYxNDAyMTc5*_ga_0YHJK3Y10M*czE3NzI4NzA3OTUkbzc1JGcwJHQxNzcyODcwNzk1JGo2MCRsMCRoMA..) — February 14 – March 15, 2026
